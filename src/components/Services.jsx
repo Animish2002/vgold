@@ -6,7 +6,7 @@ const Services = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl xl:text-5xl font-pj">
-            Make every step user-centric
+            Begin Your Digital Gold Journey
           </h2>
           <p className="mt-4 text-base leading-7 text-gray-600 sm:mt-8 font-pj">
             Lorem ipsum dolor sit amet, consectetur adipis elit
@@ -50,7 +50,7 @@ const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Support
+              Gold Booking
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
               Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec,
@@ -110,7 +110,7 @@ const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Sales
+              Gold Deposit
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
               Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec,
@@ -161,7 +161,7 @@ const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Onboarding
+              Gold Loan
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
               Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec,
