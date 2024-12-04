@@ -1,4 +1,5 @@
-import Home from "./components/home.jsx";
+// @ts-ignore
+import Home from "./components/Home.jsx";
 
 function App() {
   return (
