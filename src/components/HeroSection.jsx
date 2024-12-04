@@ -4,15 +4,15 @@ import hero from "../assets/hero.jpeg";
 const HeroSection = () => {
   return (
     <section className="bg-white dark:bg-gray-900 h-screen">
-      <div className="grid w-full py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 px-20 bg-image h-screen">
+      <div className="grid w-full py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 px-20 bg-image h-[92vh]">
         <div className="mr-auto place-self-center lg:col-span-7">
-          <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-white uppercase">
+          <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-[#F5F5DC] uppercase">
             Smart Bano, &nbsp; Digital Gold Chuno
           </h1>
-          <p className="max-w-2xl mb-6 font-light lg:mb-8 md:text-lg lg:text-xl text-white">
+          {/* <p className="max-w-2xl mb-6 font-light lg:mb-8 md:text-2xl lg:text-2xl text-[#F0F0F0]">
             From checkout to global sales tax compliance, companies around the
             world use Flowbite to simplify their payment stack.
-          </p>
+          </p> */}
           <a
             href="#"
             className="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center bg-[#29277a] text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"

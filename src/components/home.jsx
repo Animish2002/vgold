@@ -5,12 +5,14 @@ import Footer from "./Footer";
 import ContactUs from "./Contact";
 import Services from "./Services";
 import DigitalGoldStats from "./Stats";
+import AboutUs from "./AboutUs";
 
 const Home = () => {
   return (
     <div>
       <Header />
       <HeroSection />
+      <AboutUs />
       <Services />
       <DigitalGoldStats />
       <ContactUs />
